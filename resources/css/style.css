@@ -15,6 +15,7 @@ h1, h2, h3{
 
 .hero h1{
   font-size: 70px;
+  margin: 0;
 }
 
 .divider{
@@ -23,6 +24,11 @@ h1, h2, h3{
   color: white;
 }
 
-.process{
+.section{
   text-align: center;
+}
+
+.btn-nav {
+    font-size: 18px;
+    color: white;
 }
