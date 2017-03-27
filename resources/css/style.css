@@ -16,3 +16,13 @@ h1, h2, h3{
 .hero h1{
   font-size: 70px;
 }
+
+.divider{
+  background-image: url("../images/the-flatiron-building.png");
+  text-align: center;
+  color: white;
+}
+
+.process{
+  text-align: center;
+}
